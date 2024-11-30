@@ -1,0 +1,10 @@
+name: CurseRemover
+version: 1.0
+main: Rice.Chen.CurseRemover.CurseRemover
+api-version: 1.20
+folia-supported: true
+
+commands:
+  removecurse:
+    description: 移除物品上的詛咒
+    usage: /removecurse <binding|vanishing|綁定詛咒|消失詛咒>
